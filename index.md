@@ -1,25 +1,22 @@
-# About
-はじめまして、このサイトをご覧いただきありがとうございます。  
-”ITの力で職場での単純作業からの脱却を！”というのがプログラミングに興味を持ったきっかけでした。  
-今はプログラミングを勉強しながら成果として自分のための便利ツールを作ることを楽しみとしていますが、いつか作ったツールが他の人の助けにもなればいいなと思っています。  
-パンダがとてもとても大好きなので、作ったツールのデザインにはパンダを必ず入れることにしています。
+# 
+はじめまして、ぱんだのらんらんのポートフォリオサイトをご覧いただきありがとうございます。  
+
+## Works
+  - [あなたの！英文読解速度計測(N予備校動くWebページコンテスト2019夏応募作品)](https://pandanoranran.github.io/measurement/)(HTML/CSS/JavaScript)
+  - [りーでぃんぐれこーだー(N予備校Webアプリコンテスト2019冬応募作品)](https://tranquil-beach-48884.herokuapp.com/)(Node.js/Express/PostgreSQL/Pug/Bootstrap4)
+  - [Pandanoranran's GitHub](https://github.com/pandanoranran)
+
 
 ## Profile
 - 名前：Yukiko.T　(pandanoranran/ぱんだのらんらん)
 - 居住地：福岡県福岡市
-- できること：HTML・CSS・JavaScript(Node.js+Express(+PostgreSQL))を使ったコーディング
+- その他：前職は医薬品製造工場勤務で、職場での繰り返し作業を効率化したいと思ったことがプログラミングに興味を持ったきっかけでした。シンプルで使いやすいと思っていただけるようなサイト・アプリケーション作りを心掛けています。
 
 ## Skills
 - OS（Windows,Ubuntu）
 - Languages（HTML, CSS, JavaScript, Java, python3）
 - Engine,Frameworks (Node.js, Express, Mocha, Bootstrap4)
 - Tool,MiddleWare（Git, PostgreSQL, GIMP, InkScape）
-
-## Works
-- [Pandanoranran's GitHub](https://github.com/pandanoranran)
-- これまでに作った作品
-  - [あなたの！英文読解速度計測(N予備校動くWebページコンテスト2019夏応募作品)](https://pandanoranran.github.io/measurement/)
-  - [りーでぃんぐれこーだー(N予備校Webアプリコンテスト2019冬応募作品)](https://tranquil-beach-48884.herokuapp.com/)
   
 ## Contact
 - [Pandanoranran's Twitter](https://twitter.com/pandanoranran)
@@ -28,9 +25,4 @@
 ## History
 受賞歴  
 - 2019年"N予備校動くWebページコンテスト2019夏"にて健闘賞受賞 
-
-その他経歴  
-- 医薬品製造品質管理業務にてラボラトリー管理システム(LIMS)導入経験
-
-
-
+- 2019年"N予備校Webアプリコンテスト2019冬"にて健闘賞受賞 
