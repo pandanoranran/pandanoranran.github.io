@@ -13,7 +13,7 @@
 
 ## Skills
 - OS（Windows,Ubuntu）
-- Languages（HTML, CSS, JavaScript, Java, python3）
+- Languages（HTML, CSS, JavaScript, Java, Python3）
 - Engine,Frameworks (Node.js, Express, Mocha, Bootstrap4)
 - Tool,MiddleWare（Git, PostgreSQL, GIMP, InkScape）
   
